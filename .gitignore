@@ -1,1 +1,8 @@
 .DS_Store
+*.iml
+*/.idea
+*/.idea_modules
+*/target
+*/*.iml
+.idea
+.idea_modules
